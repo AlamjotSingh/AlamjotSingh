@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlamjotSingh
 - 👀 I’m interested in WebDev, Coding, Machine Learning, Cybersecurity
-- 🌱 I’m currently learning JavaScript, ReactJS
-- 💞️ I’m looking to collaborate on anything awesome
+- 🌱 I’m currently learning JavaScript, Angular, NodeJS
+- 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me @AlamjotSingh
 
 <!---
